@@ -1,7 +1,7 @@
 ### Hi there, I'm Kwangchun 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [Ignite][website]!
+## I'm a Data Scientist!
+- 🔭 I’m currently working at [KPMG][KPMG]!
 - 🌱 I’m currently learning everything; in particular AI/ML/Data Science/Tidyverse/NLP 🤣
 - 👯 I’m looking to collaborate with other content creators and Tidyverse R developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -52,4 +52,5 @@
 [facebook]: https://www.facebook.com/groups/tidyverse/
 [twitter]: https://twitter.com/statkclee
 [meetup]: https://www.meetup.com/seoul-r-meetup/
+[KPMG]: https://home.kpmg/kr/ko/home.html
 
