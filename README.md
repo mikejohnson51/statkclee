@@ -3,7 +3,8 @@
 ## I'm a Data Scientist!
 - 🔭 I’m currently working at [KPMG][KPMG]!
 - 🌱 I’m currently learning everything; in particular AI/ML/Data Science/Tidyverse/NLP 🤣
-- 👯 I’m looking to collaborate with other content creators and Tidyverse R developers
+- 👯 I’m looking to collaborate with other content creators and Tidyverse R developers.
+- 🏫 I'm a certified [RStudio Tidyverse](https://education.rstudio.com/trainers/people/lee+kwangchun/) and [Software Carpentry](https://carpentries.org/instructors/) Instructor.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn something new; digitization, history, algorithm, documents etc.
 
